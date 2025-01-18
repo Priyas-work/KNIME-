@@ -1,2 +1,2 @@
 # KNIME-
-Ranolazine alternatives for myocardial infarction
+Ranolazine alternatives for Myocardial Infarction
